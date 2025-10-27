@@ -4,6 +4,21 @@ CNCed Aluminium Enclosure for Nextion Edge Round Display using Makera Carvera Ai
 
 **YouTube video: https://youtu.be/nu68W5caPbg**
 
+Links from the video:
+- Use this voucher for $100 off when buying Carvera AIR machine:  upir100OFF
+- Do you like this video? You can buy me a coffee ☕: https://www.buymeacoffee.com/upir
+- Makera Carvera Air: https://global.makera.com/products/carvera-air 
+- Nextion Edge 2.8" round display: https://s.click.aliexpress.com/e/_c2zdQJaT
+- Nextion Edge 2.1" round display: https://s.click.aliexpress.com/e/_c3FarQhN
+- Nextion USB to TTL board: https://s.click.aliexpress.com/e/_c2xyr3Cr
+
+Related videos with Nextion Round Edge Series Displays:
+- Boost Gauge: https://youtu.be/wRvHPVy4j1g
+- G-Force Meter Gauge: https://youtu.be/tUyf2xrM-VE
+
+![THUMB_nextion_cnc_enclosure_makera_carvera_air2](https://github.com/user-attachments/assets/5fad1039-4ff1-4f77-97b8-73512b934c69)
+
+
 
 Small Animations:
 
